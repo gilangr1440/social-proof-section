@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/social-proof-section-RgubxFJvBQ)
 - Live Site URL: [live site URL here](https://gilangr1440.github.io/social-proof-section/)
 
 ## My process
